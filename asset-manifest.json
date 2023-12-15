@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crypto-info/static/css/main.3d1dadbe.css",
+    "main.js": "/crypto-info/static/js/main.c9939bac.js",
+    "static/media/btc.png": "/crypto-info/static/media/btc.ea513a9414ec0abf998f.png",
+    "index.html": "/crypto-info/index.html",
+    "main.3d1dadbe.css.map": "/crypto-info/static/css/main.3d1dadbe.css.map",
+    "main.c9939bac.js.map": "/crypto-info/static/js/main.c9939bac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d1dadbe.css",
+    "static/js/main.c9939bac.js"
+  ]
+}
